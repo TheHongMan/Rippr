@@ -1,6 +1,6 @@
 # Rippr
 
-A clean, minimal desktop app for downloading video and audio from YouTube and thousands of other sites. Paste a link, pick your quality and format, and download — no browser extensions, no command line.
+A clean, minimal desktop app for downloading video and audio from YouTube and thousands of other sites. Paste a link, pick your quality and format, and download. No browser extensions, no command line.
 
 Built with [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [pywebview](https://pywebview.flowrl.com/).
 
