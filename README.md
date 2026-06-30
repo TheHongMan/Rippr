@@ -6,7 +6,7 @@ Built with [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [pywebview](https://py
 
 ---
 
-
+<img width="883" height="842" alt="Screenshot 2026-06-30 123042 copy" src="https://github.com/user-attachments/assets/2e781dac-5daa-4725-a153-318a867c7705" />
 
 ## Features
 
