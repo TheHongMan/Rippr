@@ -14,8 +14,8 @@ Built with [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [pywebview](https://py
 - Custom **save folder** with folder-picker dialog
 - Real-time **progress bar** with speed, ETA, and log output
 - Click a completed download to **open the file or reveal it in Explorer**
-- **Dark and light mode** — auto-detects your Windows theme, toggle anytime
-- Single `.exe` — no Python or dependencies required
+- **Dark and light mode**: auto-detects your Windows theme, toggle anytime
+- Single `.exe`: no Python or dependencies required
 
 ## Download
 
