@@ -19,7 +19,7 @@ Built with [yt-dlp](https://github.com/yt-dlp/yt-dlp) and [pywebview](https://py
 
 ## Download
 
-Grab the latest `Rippr.exe` from the [Releases](https://github.com/TheHongMan/Rippr/releases) page. Double-click to run — no installation needed.
+Grab the latest `Rippr.exe` from the [Releases](https://github.com/TheHongMan/Rippr/releases) page. Double-click to run, no installation needed.
 
 ## Supported Sites
 
